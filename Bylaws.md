@@ -147,7 +147,6 @@ Taxi spots will be for rookies only and won't be locked throughout the season
 - Snake format (1st to 12th then 12th to 1st).
 - The draft will be untimed.
 - Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them. Missing their pick is defined as going a 24 hour period while on the clock. If this happens multiple times a replacement owner will be found.
 
 ## __Section VII - Yearly Draft__ ##
 
