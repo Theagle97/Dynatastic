@@ -138,8 +138,6 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 ## __Section VI - Startup Draft__ ##
 
-- The start up will be divided within 3 drafts, the main startup, the startup rookie draft and the start up devy draft. During the main startup you can acquire picks for the startup rookie and devy draft.
-
 ### Startup ###
 - The main startup will be 20 rounds
 - Snake format (1st to 12th then 12th to 1st).
