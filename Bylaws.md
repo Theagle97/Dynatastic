@@ -112,7 +112,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
-   BE | 10 | No Limit
+   BE | 12 | No Limit
    IR | 2 | No Limit
    TAXI | 3 | No Limit
 ### Taxi ###
@@ -143,7 +143,7 @@ Taxi spots will be for rookies only and won't be locked throughout the season
 ## __Section VI - Startup Draft__ ##
 
 ### Startup ###
-- The main startup will be 20 rounds
+- The main startup will be 25 rounds
 - Snake format (1st to 12th then 12th to 1st).
 - The draft will be untimed.
 - Trading draft picks is allowed during the startup draft.
