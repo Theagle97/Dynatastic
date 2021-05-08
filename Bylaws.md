@@ -114,6 +114,10 @@ If a team does not pay their dues by the designated date they are not eligible t
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 10 | No Limit
    IR | 2 | No Limit
+   TAXI | 3 | No Limit
+### Taxi ###
+
+Taxi spots will be for rookies only and won't be locked throughout the season
 
 ## __Section V - Free Agency & Trading__ ##
 
